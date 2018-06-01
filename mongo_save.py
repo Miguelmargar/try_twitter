@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-
+#need to change the user and password for the actual to be able to use it 
 MONGODB_URI = "mongodb://User:password@ds137550.mlab.com:37550/try_mongo_tweets"
 MONGODB_NAME = "try_mongo_tweets"
 
